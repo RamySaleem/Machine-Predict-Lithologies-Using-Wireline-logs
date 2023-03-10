@@ -50,9 +50,9 @@ Considering this work, the key messages and conclusion of this work could be sum
 
 ## Future Work
 
-• This intensive geological dataset can be used to explore more classic machine learning models with better hyperparameters tuning.
-• Apply deep learning methodology to predict the lithology using the same dataset.
-• Utilise the free google cloud GPU to model the data using artificial neural networks such as CNN using PyTorch library.
+• This intensive geological dataset can be used to explore more classic machine learning models with better hyperparameters tuning.\n
+• Apply deep learning methodology to predict the lithology using the same dataset.\n
+• Utilise the free google cloud GPU to model the data using artificial neural networks such as CNN using PyTorch library.\n
 
 ## References
 
