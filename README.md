@@ -59,7 +59,9 @@ Considering this work, the key messages and conclusion of this work could be sum
 ## References
 
 • Machine Predicted Lithology competition  by Force and Xeek 2020 Machine learning .  https://xeek.ai/challenges/force-well-logs/overview
+
 • (Bormann P., et al. 2020). 2020 FORCE Machine Learning Contest. https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition.
+
 • FORCE 2020 Well well log and lithofacies dataset for machine learning competition https://zenodo.org/record/4351156#.YXmi1Z7MJPb.
 
 
